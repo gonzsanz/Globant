@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™î˜ô8Óã°¤Ú1
+]
+java:S3518"@Make sure "totalWords" can't be zero before doing this division.(òÔäà8ÜŞµ¤Ú1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ä¿­ãüÿÿÿÿ8Ùã°¤Ú1
+M
+java:S1172"+Remove this unused method parameter "path".(Ú¼×ıÿÿÿÿ8Ûã°¤Ú1
